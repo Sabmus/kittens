@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kittens/static/css/main.d7bda641.css",
+    "main.js": "/kittens/static/js/main.a2b44cf7.js",
+    "static/js/787.32032a02.chunk.js": "/kittens/static/js/787.32032a02.chunk.js",
+    "static/media/Pacifico-Regular.ttf": "/kittens/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "index.html": "/kittens/index.html",
+    "main.d7bda641.css.map": "/kittens/static/css/main.d7bda641.css.map",
+    "main.a2b44cf7.js.map": "/kittens/static/js/main.a2b44cf7.js.map",
+    "787.32032a02.chunk.js.map": "/kittens/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7bda641.css",
+    "static/js/main.a2b44cf7.js"
+  ]
+}
